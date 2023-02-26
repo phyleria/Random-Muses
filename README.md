@@ -5,6 +5,7 @@ Random  Muses is my personal blog that focuses on the three things I love:
 1. Music
 2. Books
 3. Art
+
 And like the name, all the posts are random muses in my daily life :smiley:
 
 ## Features
@@ -16,6 +17,7 @@ The blog contains the following sections:
 
 ## Design
 Here's the Homepage design I created on Figma
+
 ![Random_Muses](Assets/Images/Random.png)
 
 ## Installation
