@@ -16,7 +16,7 @@ The blog contains the following sections:
 
 ## Design
 Here's the Homepage design I created on Figma
-https://github.com/phyleria/Random-Muses/blob/acba70d70579a683a511aeef9a8bace42a15c7b6/Assets/Images/Random.png
+![Random_Muses](Assets/Images/Random.png)
 
 ## Installation
 
