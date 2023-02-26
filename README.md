@@ -28,4 +28,4 @@ Here's the Homepage design I created on Figma
 Yes I welcome contributions, so go ahead and create that PR!
 
 ## Credits
-I give credits to my uke, stock of books(both read and unread) and of course my sketch-pad :wink:
+I give credits to my uke, stack of books(both read and unread) and of course my sketch-pad :wink:
