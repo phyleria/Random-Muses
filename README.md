@@ -1,7 +1,7 @@
 # Random-Muses
 
 ## Project Description
-Random  Muses is my personal blog that focuses on the three things I love:
+Random  Muses is my personal blog that focuses on the three things I love most:
 1. Music
 2. Books
 3. Art
