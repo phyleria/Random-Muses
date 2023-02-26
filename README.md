@@ -24,4 +24,4 @@ The blog contains the following sections:
 Yes I welcome contributions, so go ahead and create that PR!
 
 ## Credits
-I give credits to my ukelele, stock of books(both read and unread) and ofcourse my sketch-pad :wink:
+I give credits to my uke, stock of books(both read and unread) and ofcourse my sketch-pad :wink:
