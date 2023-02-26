@@ -14,6 +14,8 @@ The blog contains the following sections:
 3. Blogs
 4. Contact
 
+## Design
+
 ## Installation
 
 ## Usage
