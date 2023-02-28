@@ -70,3 +70,71 @@ body {
   a{
     color: white;
   }
+
+  .testimonial {
+    padding-top: 100px;
+    color: white;
+  }
+  .testimonial .col-3 {
+    text-align: center;
+    padding: 40px 70px;
+    box-shadow: 0 0 40px 0px rgba(132, 63, 63, 0.971);
+    cursor: pointer;
+    transition: transform 0.5s;
+  }
+  .testimonial .col-3 img {
+    width: 90px;
+    margin: 20px;
+    border-radius: 100%;
+  }
+  .testimonial .col-3:hover {
+    transform: translateY(-10px);
+  }
+  .fa.fa-quote-left {
+    font-size: 34px;
+    color:  #ff523b;
+  }
+  .col-3 p {
+    font-size: 12px;
+    margin: 12px 0;
+    color: #777;
+  }
+  .testimonial .col-3 h3 {
+    font-weight: 600;
+    color: #555;
+    font-size: 16px;
+  }
+  /*-------Brands-------*/
+  .brands {
+    margin: 100px auto;
+  }
+  col-5 {
+    width: 150px;
+    cursor: pointer;
+    filter: grayscale(100%);
+  }
+  .col-5 img:hover {
+    filter: grayscale(0);
+  }
+  .col-3 {
+    flex-basis: 5%;
+    min-width: 28px 0;
+    margin-bottom: 30px;
+    align-items: center;
+    margin-top: 7%;
+    
+    
+  }
+  .small-container {
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+ 
