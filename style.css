@@ -71,10 +71,11 @@ body {
     color: white;
   }
 
-  .testimonial {
+/*   .testimonial {
     padding-top: 100px;
     color: white;
-  }
+      
+  } */
   .testimonial .col-3 {
     text-align: center;
     padding: 40px 70px;
